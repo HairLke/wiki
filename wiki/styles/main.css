@@ -1,0 +1,32 @@
+body{
+    background: rgb(20,65,184);
+    background: radial-gradient(circle, rgba(20,65,184,1) 6%, rgba(41,215,184,1) 15%, rgba(209,22,142,1) 40%, rgba(45,0,168,0.5858718487394958) 69%, rgba(255,0,206,1) 100%);
+
+}
+p{
+    color:rgb(206, 238, 27);
+    font-size: larger;
+    font-stretch:ultra-condensed;
+    text-indent: 3%;
+    letter-spacing: 2px;
+}
+.k{
+    font-family: sans-serif;
+    font-weight: 600;   
+}
+.position{
+    float: right;
+}
+.return{
+    position: fixed;
+    top:800px;
+    right: 20px;
+    font-size: x-large;
+}
+
+.article{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: 100;
+    color: rgb(11, 240, 240);
+}
